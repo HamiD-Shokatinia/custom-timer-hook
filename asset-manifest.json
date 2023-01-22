@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-timer-hook/static/css/main.1ef3a49a.css",
+    "main.js": "/custom-timer-hook/static/js/main.1004c071.js",
+    "index.html": "/custom-timer-hook/index.html",
+    "main.1ef3a49a.css.map": "/custom-timer-hook/static/css/main.1ef3a49a.css.map",
+    "main.1004c071.js.map": "/custom-timer-hook/static/js/main.1004c071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.1004c071.js"
+  ]
+}
